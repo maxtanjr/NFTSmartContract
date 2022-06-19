@@ -1,0 +1,38 @@
+{
+    "description": "Zombie Degenerate Ape with an Angel Halo",
+    "image": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaW5ZTWluIG1lZXQiIHZpZXdCb3g9IjAgMCAzNTAgMzUwIj4KICAgIDxzdHlsZT4uYmFzZSB7IGZpbGw6IHdoaXRlOyBmb250LWZhbWlseTogc2VyaWY7IGZvbnQtc2l6ZTogMTRweDsgfTwvc3R5bGU+CiAgICA8cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJibGFjayIgLz4KICAgIDx0ZXh0IHg9IjUwJSIgeT0iNTAlIiBjbGFzcz0iYmFzZSIgZG9taW5hbnQtYmFzZWxpbmU9Im1pZGRsZSIgdGV4dC1hbmNob3I9Im1pZGRsZSI+RXBpY0xvcmRIYW1idXJnZXI8L3RleHQ+Cjwvc3ZnPg==",
+    "name": "Jesus",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Mid-century Modern"
+        },
+        {
+            "trait_type":"Eyes",
+            "value":"Dead"
+        },
+        {
+            "trait_type":"Mouth",
+            "value":"Brain"
+        },
+        {
+            "trait_type":"Accessory",
+            "value":"Angelic Halo"
+        },
+        {
+            "display_type":"boost_number",
+            "trait_type":"Strength",
+            "value":30
+        },
+        {
+            "display_type":"boost_percentage",
+            "trait_type":"Degeneracy",
+            "value":80
+        },
+        {
+            "display_type":"number",
+            "trait_type":"Generation",
+            "value":1
+        }
+    ]
+}
